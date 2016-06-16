@@ -17,7 +17,7 @@ Deb Chandra summarized it in four words: Atemporality, Illegibility, Visibility,
 
 I love the idea that the things that happen leave traces; sometimes it's a crane, but more often than not it's a superfund site. One of the outputs was a [map](http://situated.systems/sites/) which talks a lot about where these things are, and some of the history. There were also a lot of hand-held pieces at the show, with more extensive research than is in the map captions. All interesting, even if some of it I already knew.
 
-So, the setup: a 15x30 white box of a room, projector on one wall, and several tables around the room, up against the walls, with different bits of art on them. There were also photos, printed on canvas, hung above the tables. About 30 chairs took up the center of the room, for people to sit during the talks.
+So, the setup: a 15x30 white box of a room, projector screen on one wall, and several tables around the room, up against the walls, with different bits of art on them. There were also photos, printed on canvas, hung above the tables. About 30 chairs took up the center of the room, for people to sit during the talks.
 
 The first table I looked at was zine printed with a laser cutter on plywood. It was meant to be housed in a heavy welded steel box. Nice welds. Of course, at this point I wasn't thinking of a write up or even really thinking at all, so I don't have any pictures of them (I am a terrible reporter, but in my defense, I was also super awkward, having not been at an event like this ever before). There was a sign on the table, encouraging people to handle the objects.
 
@@ -38,4 +38,4 @@ Also, they've given me a list of places to visit: (if any of my bay area friends
 
 Look, just anywhere on their delightful [map](http://situated.systems/sites/).
 
-Also: anyone in the audience that wants welding tips, [here](http://www.thefabricator.com/article/arcwelding/22-possible-causes-of-weld-metal-porosity). 
+Also: anyone in the audience that wants welding tips, [here](http://www.thefabricator.com/article/arcwelding/22-possible-causes-of-weld-metal-porosity).
