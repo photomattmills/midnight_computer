@@ -29,14 +29,18 @@ I didn't get a feeling of value judgements coming from the work, but rather a re
 A series of disconnected notes:
 
 To read:
+
 + [Situated Knowledges (Haraway)](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf) -- referred to as one of their 'patron saints'. I was only dimly aware of her work previously.
 + [All of their zines](http://situated.systems/knowledges/) -- there are only two up currently, but they did four. I assume they'll upload pdfs eventually.
 + [Their bibliography](http://situated.systems/bibliography/) -- They're a bunch of academics, of course they did up a bibliography. You could do worse than work down their list of reading.
 + [Tinyletter](http://tinyletter.com/situatedsystems) -- where I presume they'll be sending out info as more stuff comes online.
 
-Also, they've given me a list of places to visit: (if any of my bay area friends want to field trip, get @ me)
+Also, they've given me a list of places to visit: (if any of my bay area friends want to field trip, get @ me):
+
+
 + [Bay Model](https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model)
 + [Nike Missile Site](http://situated.systems/sites/)
 + [NEEDLES & PENS](http://www.needles-pens.com/)
+<p></p>
 
 Look, just anywhere on their delightful [map](http://situated.systems/sites/).
