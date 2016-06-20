@@ -35,6 +35,7 @@ To read:
 + [Their bibliography](http://situated.systems/bibliography/) -- They're a bunch of academics, of course they did up a bibliography. You could do worse than work down their list of reading.
 + [Tinyletter](http://tinyletter.com/situatedsystems) -- where I presume they'll be sending out info as more stuff comes online.
 
+<p></p>
 Also, they've given me a list of places to visit: (if any of my bay area friends want to field trip, get @ me):
 
 
