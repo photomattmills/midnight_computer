@@ -1,0 +1,35 @@
+---
+layout: post
+title: the setup
+date: 2017-07-26 22:50:03 -0700
+ogimage: ""
+description: "things I use sometimes"
+---
+
+## Who are you, and what do you do?
+
+I'm Matt Mills, I'm a programmer, a [photographer](http://matt.pictures), and maker of [watches](http://ourglass.watch), among other things.
+
+## What hardware do you use?
+
+For the programming, a Mac laptop, currently an under-powered Macbook (the teeny one). One of [several](https://midnight.computer/2017/06/29/wireless-atreus.html) ergonomic keyboards, and a 30" screen to plug it into on my desk. Not a lot that goes into that.
+
+For the photography, I've got two main cameras, a Fuji XPro 2, and a Nikon D750. For lenses, I've got a 14mm f/2.8 and 35mm f/1.4 for the fuji, and a 24-120mm f/4, a 500mm f/6.3 mirror, a 40mm f/2, and a 50mm f1.4/D for the Nikon. I also have a bunch of 35mm cameras I never use, and some medium format gear, notably a Fuji GW690 II. Epson V600 scanner and P600 printer (which I hadn't noticed until just now they're the same number).
+
+Like most photographers I know, I have a bag problem. Can't find the perfect one, just keep trying. I used to really favor Domkes, but lately I've been carrying a ThinkTank Retrospective 7. It holds the laptop, and whatever camera setup I'm hauling currently. I also just finished making myself a bag that has a bunch of different features from others i've liked; we'll see how it shakes out.
+
+For the making, too many hand tools to list, so maybe just my favorites? Knipex cutters, which are harder than a coffin nail at the business end, and I've actually used them to cut nails. A Pfaff sewing machine that's as old as I am, with "Made in West Germany" written on the front. A Printrbot simple metal, which I mostly just use to make watch cases. A hot-air reflow station, which makes so much possible when making and fixing circuits. Mitutoyo calipers; don't skimp on your test equipment, since errors multiply each other.
+
+Phone is an iPhone 6s+, in one of the thinner Otterbox cases. I go through cases about 1 per 6 months. This one might make it till the Fall. My EDC: phone, keys (with [mini multitool](https://www.amazon.com/Swiss-Tech-ST66676-Polished-Multitool/dp/B0001EFSTI), [flashlight](https://www.amazon.com/gp/product/B00KPSHSMA/), [Yubikey](https://www.amazon.com/Yubico-Y-158-YubiKey-4/dp/B018Y1Q71M/), and thumbdrive), a [yellow benchmade griptilian](https://www.amazon.com/dp/B00152RXH0/ref=cm_sw_r_cp_dp_T2_RByEzbPV9CTQ5), [Pen Type B](https://cwandt.com/products/pen-type-b?variant=30696392260), and my [wallet](https://decadentminimalist.com/products/dm1-aluminum).
+
+## And what software?
+
+On the desktop, it's OSX with a ton of apps. Lightroom and Photoshop for photos, and if I'm working on images from the digital cameras, there's never a reason to open photoshop. I'm typing this in Atom, the text editor from Github. It's not the most amazing editor ever, but it works, and there are extensions for most of what I need; that's for writing and coding. Tweetbot for twitter lists; I use private lists to make sense of the ~400 or so people I follow. I don't try to get it all, except the friends list. Dropbox, although I don't use it as much as I used to. Alfred, with the powerpack. Divvy, for fast window resizing. 1Password to keep me a little safer. Fusion 360 for CAD needs, except for electronics; all my circuits happen in KiCad.
+
+On the phone, it's Kindle, Signal, Tweetbot, Instagram, Dark Sky, and Google Maps. Other apps as needed (hi Terminus).
+
+## What would be your dream setup?
+
+Something as small and thin as the macbook, with a quad core i7 and ALL THE RAM. A full machine shop, with a big mill and engine lathe and a chest full of bits and cutters, and a pile of stock in various flavors. A pair of Leica M10s, with 21mm and 50mm lenses on the front, and a Leica S for when I wanted medium format.
+
+Enough money to pay off my student loans, and to give me time to take on freelance clients. I don't need a fortune, although I wouldn't say no if one was on offer.  
