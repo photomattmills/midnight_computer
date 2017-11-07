@@ -6,7 +6,7 @@ ogimage: ""
 description: "some pictures for yr eyes"
 ---
 
-I just read the [iFixit teardown of the new iPhone](https://www.ifixit.com/Teardown/iPhone+X+Teardown/98975). It's a remarkable piece of technology but I'd like to draw your attention to one image in that post:
+I just read the [iFixit teardown of the new iPhone](https://www.ifixit.com/Teardown/iPhone+X+Teardown/98975). The new phone is a remarkable piece of technology but I'd like to draw your attention to one image in that post:
 
 ![Image courtesy iFixit and their Creative Commons license](https://d3nevzfk7ii3be.cloudfront.net/igi/OYsIHWAHwVUNSilS)
 
