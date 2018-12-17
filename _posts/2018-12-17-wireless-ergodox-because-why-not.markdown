@@ -12,13 +12,13 @@ So, I have a lot of boards, and they're all of the microcontroller with matrix v
 
 Thinking about it, though, that's not true; I designed the thing and managed to solder all the components together before I went on vacation in October. I used an adafruit feather M0 w/bluetooth that I had sitting around, since they're great for wireless keyboards, and the Boldport Ixpando, which is a breakout for the microchip MCP23017, a 16-bit i2c shift register. I read a couple guides on hand-wiring, bought a bunch of diodes, and threw it together. The bottom plates are some 3/16" aluminum I just happened to have laying around. Brass standoffs and M3 machine screws hold the key plates to the base. 
 
-![Matrix Wiring](images/ergodox/IMG_2534.JPG)
-![More matrix](images/ergodox/IMG_3188.jpeg)
-![](images/ergodox/IMG_2624.jpeg)
+![Matrix Wiring](https://midnight.computer/images/ergodox/IMG_2534.JPG)
+![More matrix](https://midnight.computer/images/ergodox/IMG_3188.jpeg)
+![](https://midnight.computer/images/ergodox/IMG_2624.jpeg)
 
 After I got that done, it sat for a couple months while other matters occupied my time. But, eventually I got back to it and modified my existing wireless keyboard firmware to work with the shift register. That's a project that's still ongoing, because there's still a tiny bit of lag; 25ms to scan is a little too long. I've wrestled with it quite a bit just to get it to work, but it finally does. 
 
-![](images/ergodox/IMG_3233.jpg)
-![](images/ergodox/IMG_3232.jpg)
+![](https://midnight.computer/images/ergodox/IMG_3233.jpg)
+![](https://midnight.computer/images/ergodox/IMG_3232.jpg)
 
 (If you look closely you can see that the battery is disconnected; that's because I was debugging, but it works just fine. I do need to put in an on/off switch...)
